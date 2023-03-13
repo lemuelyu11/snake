@@ -23,4 +23,4 @@ Lemuel
 * Add more functionalites like timers and increasing speed. 
 
 ## App Link
-
+https://lemuelyu11.github.io/snake/
